@@ -1,6 +1,6 @@
 # most-recent-cache-iterator-for-geoevent
 
-ArcGIS 10.3.x GeoEvent Extension Most Recent Cache Iterator Processor for iterating and playing back the most recent GeoEvent cache.
+ArcGIS GeoEvent Extension Most Recent Cache Iterator Processor for iterating and playing back the most recent GeoEvent cache.
 Provides control to time interval between iteration cycles and between messages.
 
 ![App](most-recent-cache-iterator-for-geoevent.png?raw=true)
